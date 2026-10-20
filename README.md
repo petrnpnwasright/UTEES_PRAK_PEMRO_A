@@ -2,6 +2,11 @@
 
 Repositori ini menyimpan paket-paket soal yang akan diimpor ke instance DOMjudge. Setiap soal adalah satu folder di root repositori, dan tiap folder itu sendiri adalah isi dari satu problem archive (zip) yang diimpor lewat **Problems → Import problem archive**.
 
+## Ketentuan upload soal
+### Nama Soal
+**Kesulitan - NamaSoal**
+Upload di directory masing masing
+
 ## Struktur repositori
 
 ```
