@@ -7,7 +7,7 @@ Repositori ini menyimpan paket-paket soal yang akan diimpor ke instance DOMjudge
 **Kesulitan - NamaSoal**
 - Easy - MichaelJackson
 
-## Struktur repositori
+## Struktur challenge
 
 ```
 .
