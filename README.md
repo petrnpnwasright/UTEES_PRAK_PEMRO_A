@@ -5,7 +5,7 @@ Repositori ini menyimpan paket-paket soal yang akan diimpor ke instance DOMjudge
 ## Ketentuan upload soal
 ### Nama Soal
 **Kesulitan - NamaSoal**
-- Easy - MichaelJackson
+- Easy - MichaelJackson.zip
 
 ## Struktur challenge
 
