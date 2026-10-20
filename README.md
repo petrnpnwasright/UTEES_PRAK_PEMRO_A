@@ -4,7 +4,7 @@ Repositori ini menyimpan paket-paket soal yang akan diimpor ke instance DOMjudge
 
 ## Ketentuan upload soal
 ### Nama Soal
-**Kesulitan - NamaSoal**
+**Kesulitan - NamaSoal**\n
 Upload di directory masing masing
 
 ## Struktur repositori
